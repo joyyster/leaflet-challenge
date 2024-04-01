@@ -29,6 +29,7 @@ Create a legend that will provide context for your map data.
 
 Your visualization should look something like the preceding map.
 My Map shown here: 
+file:///C:/Users/Joyjo/OneDrive/Documents/GitHub/leaflet-challenge/Leaflet-Part-1/index.html
 ![image](https://github.com/joyyster/leaflet-challenge/assets/145946583/d3abf374-382a-418a-af55-8fc186c64247)
 
 
