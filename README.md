@@ -1,4 +1,6 @@
 # leaflet-challenge
+![image](https://github.com/joyyster/leaflet-challenge/assets/145946583/3f0128ea-1f6d-4a00-9b86-3649156d1655)
+
 
 Part 1: Create the Earthquake Visualization
 2-BasicMap
